@@ -68,6 +68,7 @@ a{
     max-width:45em;
     background:rgb(241, 237, 217);
     color:#111;
+    text-align: left;
 }
 .document a{
     color:#111;
