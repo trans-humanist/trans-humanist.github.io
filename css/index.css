@@ -99,6 +99,10 @@ a{
     box-shadow:0 0 2px 2px rgba(0,0,0,1);
     transition-duration:0.2s;
 }
+.logo{
+    max-width: 615px;
+    max-height:178px; 
+}
 .btn:hover{
     opacity:0.8;
 }
